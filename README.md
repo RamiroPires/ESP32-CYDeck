@@ -4,7 +4,14 @@ A fully customizable **Stream Deck built with ESP32**, powered by a modern Pytho
 
 Designed to work with the touch from XPT2046 Library and not from TFT (since it didn't work for me)
 
+I'll work on translating it later on
+
 ---
+
+<img width="1282" height="832" alt="image" src="https://github.com/user-attachments/assets/abf1fb9f-569c-499a-84f1-c5b78d911dc1" />
+
+---
+
 
 ## 🚀 Features
 
@@ -39,6 +46,9 @@ Designed to work with the touch from XPT2046 Library and not from TFT (since it 
 ├── estado_programa.json  # Saved state (auto-generated)
 ├── 📁 icones/            # Button icons
 ```
+
+
+
 
 ---
 
