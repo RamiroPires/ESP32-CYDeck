@@ -1,0 +1,178 @@
+{
+    "perfil_atual": "Padr\u00e3o",
+    "perfis": {
+        "Padr\u00e3o": {
+            "config_geral": {
+                "cor_fundo": "#000000",
+                "cor_grid": "#525252",
+                "colunas": 4,
+                "linhas": 3,
+                "iniciar_windows": false,
+                "minimizar_bandeja": true,
+                "orientacao": "Paisagem Invertida"
+            },
+            "botoes": {
+                "1": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\prev.png",
+                    "tecla": "prevtrack",
+                    "cor": "#00FF00"
+                },
+                "2": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\play_pause.png",
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "3": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\next.png",
+                    "tecla": "esc",
+                    "cor": "#00FF00"
+                },
+                "4": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\micmute2.png",
+                    "tecla": "pause",
+                    "cor": "#00FF00"
+                },
+                "5": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\instagram(1).png",
+                    "tecla": "https://www.instagram.com/",
+                    "cor": "#00FF00"
+                },
+                "6": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\twitch.png",
+                    "tecla": "https://www.twitch.tv/",
+                    "cor": "#00FF00"
+                },
+                "7": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\twitter.png",
+                    "tecla": "https://x.com/",
+                    "cor": "#00FF00"
+                },
+                "8": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\youtube.png",
+                    "tecla": "https://www.youtube.com/",
+                    "cor": "#00FF00"
+                },
+                "9": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\volmute.png",
+                    "tecla": "volumemute",
+                    "cor": "#00FF00"
+                },
+                "10": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\vol-.png",
+                    "tecla": "volumedown",
+                    "cor": "#00FF00"
+                },
+                "11": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\vol+.png",
+                    "tecla": "volumeup",
+                    "cor": "#00FF00"
+                },
+                "12": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\trocar_audio.png",
+                    "tecla": "ctrl + shift + f8",
+                    "cor": "#00FF00"
+                },
+                "13": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "14": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "15": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                }
+            }
+        },
+        "Discord": {
+            "config_geral": {
+                "cor_fundo": "#121212",
+                "cor_grid": "#333333",
+                "colunas": 4,
+                "linhas": 3
+            },
+            "botoes": {
+                "1": {
+                    "img": "C:\\Users\\Ramiro\\Desktop\\projeto streamdeck\\icones\\pasta.png",
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "2": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "3": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "4": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "5": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "6": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "7": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "8": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "9": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "10": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "11": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "12": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "13": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "14": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                },
+                "15": {
+                    "img": null,
+                    "tecla": "f13",
+                    "cor": "#00FF00"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "BOTAO_1": {
+        "acao": "Atalho Simples",
+        "atalho": "volumemute",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_2": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_3": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_4": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_5": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_6": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_7": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_8": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_9": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_10": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_11": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    },
+    "BOTAO_12": {
+        "acao": "Atalho Simples",
+        "atalho": "f13",
+        "cor_borda": "TFT_GREEN"
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "CONTROLE_DE_MIDIA": {
+    "volmute": ["volumemute"],
+    "vol+": ["volumeup"],
+    "vol-": ["volumedown"],
+    "play_pause": ["playpause"],
+    "next": ["nexttrack"],
+    "prev": ["prevtrack"],
+    "micmute": ["pause"],
+    "micmute2": ["pause"],
+	  "trocar_audio": ["ctrl", "shift", "f8"]
+  },
+  "GERAL": {
+    "app": ["open_app"],
+    "back": ["back"],
+    "navegador": ["url"],
+    "press": ["hotkey"],
+    "pasta": ["open_folder"]
+  },
+  "SITES": {
+    "twitter": ["https://x.com/"],
+    "instagram": ["https://www.instagram.com/"],
+    "youtube": ["https://www.youtube.com/"],
+    "twitch": ["https://www.twitch.tv/"]
+  }
+}
