@@ -9,16 +9,16 @@ Perfect for productivity, automation, media control, and everyday shortcuts.
 ## 🚀 Features
 
 - 🎨 Clean and modern UI built with **CustomTkinter**
-- 🧩 Fully customizable **grid layout (rows & columns)**
-- 🖱️ Intuitive **drag & drop system**
+- 🧩 Customizable **grid layout (rows & columns)**
+- 🖱️ **drag & drop system** (Work in progress)
 - 🎯 Supports multiple action types:
   - Hotkeys
   - Media control
   - Open apps, folders, and URLs
 - 🎭 **Profile system** for different setups
-- 🎨 Full customization:
+- 🎨 Customization:
   - Button colors
-  - Background
+  - Background color
   - Grid borders
 - 🔄 One-click **ESP32 synchronization**
 - 🔌 Serial communication
@@ -116,7 +116,7 @@ Click:
 
 ## 🎮 Supported Actions
 
-- ⌨️ Keyboard inputs (e.g. `f13`, `ctrl`, `volumeup`)
+- ⌨️ Keyboard inputs (e.g. `f13`, `ctrl`, `volumeup`) (HOTKEYS NOT WORKING YET)
 - 🔗 Open URLs
 - 📂 Open folders
 - 🖥️ Launch applications
@@ -142,25 +142,22 @@ Create multiple profiles for different use cases:
 - 💻 Work
 - 🎬 Streaming
 
-Switch instantly from the interface.
+Switch by uploading to the CYD
 
 ---
 
 ## ⚠️ Notes
 
-- Some actions depend on your operating system
-- PyStray is optional (for system tray support)
+- This project is a work in progress
 - Make sure to properly close the serial connection
 
 ---
 
 ## 💡 Roadmap / Future Ideas
 
-- Wi-Fi support (no serial required)
 - OBS integration
 - Multi-page support
-- Display feedback on device
-- Plugin system
+- Built-in Soundpad
 
 ---
 
