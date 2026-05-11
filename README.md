@@ -2,7 +2,7 @@
 
 A fully customizable **Stream Deck built with ESP32**, powered by a modern Python interface with **drag & drop, profiles, macros, and custom icons**.
 
-Perfect for productivity, automation, media control, and everyday shortcuts.
+Designed to work with the touch from XPT2046 Library and not from TFT (since it didn't work for me)
 
 ---
 
